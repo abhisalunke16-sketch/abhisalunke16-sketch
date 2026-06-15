@@ -83,4 +83,4 @@ and the Canadian space economy on Medium.
 [Medium](https://medium.com/@abhisheksalunke) ·
 [GitHub](https://github.com/abhisalunke16-sketch)
 
-Ottawa, Canada · Open to consulting engagements in space data infrastructure
+Ottawa, Canada · Open to consulting engagements in data infrastructure
