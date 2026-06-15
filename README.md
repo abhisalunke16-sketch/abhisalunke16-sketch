@@ -35,6 +35,13 @@ Python · SQL · Scala (learning)
 
 ## 🛰️ Projects
 
+### FIFA World Cup 2026 Qualification Simulator
+A Python-based simulator that models the FIFA World Cup 2026
+group stage qualification scenarios. Run thousands of simulations
+to predict which teams advance based on real group fixtures and
+current standings.
+→ [Repo](https://github.com/abhisalunke16-sketch/wc2026-qualification-simulator)
+
 ### Known Space Explorer
 A cinematic space exploration experience built with HTML and JavaScript.
 Visualizes the Solar System and Observable Universe in the browser.
